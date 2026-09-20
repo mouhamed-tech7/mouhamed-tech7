@@ -1,18 +1,131 @@
-# 💫 About Me:
-## 👋🏾 About Me<br><br>🔨 I'm currently working on 🖥️ Network and system administration projects, Cisco labs, Linux servers, and practical IT projects.<br><br>🤝 I'm looking to collaborate on open-source projects related to networking, system administration, cybersecurity, cloud, and AI.<br><br>🙋🏾 I'm looking for help with 🚀 DevOps, cloud technologies, cybersecurity, and building professional real-world infrastructure.<br><br>📚 I'm currently learning Git & GitHub, CCNA, Linux administration, Python, Docker, and DevOps.<br><br>💼 My career goal is to become a skilled Network & Systems Administrator, then specialize in cybersecurity, cloud, and DevOps while continuing to explore AI.<br><br>💬 Ask me about Cisco, VLANs, IP addressing, SQL/MySQL, Active Directory, Linux, and network troubleshooting.<br><br>🎯 Fun fact: I enjoy turning what I learn in class into practical projects and building labs to understand how things work in the real world.<br>
+# 👋🏾 Hi, I'm Mohamed Toui
 
+### 🖥️ Network & Systems Administration Student | IT Enthusiast
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouhamed.itech@gmail.com) 
+🎓 I'm a final-year student in **Network & Systems Administration**, passionate about computer networks, system administration, and IT infrastructure.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mouhamed-tech7&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mouhamed-tech7&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mouhamed-tech7&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💼 My career goal is to become a **Network & Systems Administrator**, while developing strong skills in **Cybersecurity, Cloud Computing, and DevOps**.
+
+🌍 I'm currently looking for opportunities to gain real-world experience through **internships, projects, and collaboration**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=mouhamed-tech7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ What I'm Working On
+
+🔹 Cisco networking labs with VLANs, Trunking, Inter-VLAN Routing, DHCP, NAT, ACLs and OSPF.
+
+🔹 Linux and Windows Server administration projects.
+
+🔹 Active Directory and network infrastructure labs.
+
+🔹 SQL/MySQL database design and administration.
+
+🔹 Practical IT projects using virtual machines and network simulation.
+
+---
+
+## 📚 Currently Learning
+
+🌐 **Networking** — CCNA, Routing & Switching, VLANs, OSPF, ACLs
+
+🐧 **Linux** — System administration, networking and services
+
+🪟 **Windows Server** — Active Directory, DNS, DHCP and administration
+
+🔐 **Cybersecurity** — Network security and infrastructure protection
+
+☁️ **Cloud & DevOps** — Docker, virtualization, automation and cloud fundamentals
+
+🐍 **Python** — Scripting and IT automation
+
+🔧 **Git & GitHub** — Version control and collaborative development
+
+---
+
+## 💻 Technical Skills
+
+### 🌐 Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
+
+**VLAN • Trunking • Inter-VLAN Routing • DHCP • NAT • ACL • OSPF • RIP • IPv4/IPv6 • IP Addressing**
+
+### 🖥️ Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+
+**Linux • Windows Server • Active Directory • DNS • DHCP • Virtualization**
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+**SQL • MySQL • Database Design • MERISE • UML**
+
+### 💻 Programming & Web
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+
+**Python • Java • PHP • HTML/CSS • C/C++**
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+
+**Git • GitHub • VS Code • Packet Tracer • eNSP • Virtual Machines**
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Cisco Enterprise Network
+
+A simulated enterprise network built with Cisco Packet Tracer.
+
+**Technologies:** VLANs, Trunking, Inter-VLAN Routing, DHCP, NAT, ACL and OSPF.
+
+### 🏢 Windows Server Infrastructure
+
+A Windows Server laboratory focused on enterprise system administration.
+
+**Technologies:** Active Directory, DNS, DHCP, Users & Groups and Domain Management.
+
+### 🗄️ Database Management Projects
+
+Academic projects focused on database design and SQL administration.
+
+**Technologies:** MySQL, SQL, MERISE and UML.
+
+> 🚧 More real-world projects are currently being developed and will be added here.
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [mouhamed.itech@gmail.com](mailto:mouhamed.itech@gmail.com)
+
+💻 **GitHub:** [@mouhamed-tech7](https://github.com/mouhamed-tech7)
+
+I'm open to **internships, IT projects, networking projects, and collaboration opportunities**.
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.shion.dev/api?username=mouhamed-tech7\&theme=nightowl\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=mouhamed-tech7\&theme=nightowl\&hide_border=false)
+
+---
+
+### 💡 "Learn. Build. Troubleshoot. Improve."
+
+Thanks for visiting my profile! 👋🏾
