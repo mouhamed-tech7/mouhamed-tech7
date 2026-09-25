@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Mohamed Toui
+# 👋🏾 Hi, I'm Mohamed Lo
 
 ### 🖥️ Network & Systems Administration Student | IT Enthusiast
 
